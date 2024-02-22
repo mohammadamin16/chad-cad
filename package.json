@@ -1,0 +1,16 @@
+{
+  "name": "real-snapp-pro",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@ptkdev/logger": "^1.8.0",
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@inquirer/prompts": "^4.1.0",
+    "axios": "^1.6.7"
+  }
+}
